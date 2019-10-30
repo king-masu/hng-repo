@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: raleway;
-            margin: 0;
+            margin: auto;
 
         }
         .nav {
@@ -18,14 +18,14 @@
         }
         .nav li {
             list-style: none;
-            display: inline;
+            display: block;
             padding: 0 5px;
         }
         .nav a {
             text-decoration: none;
-            color: #FFF;
-            font-size: 36px;
-            text-shadow: 1px 3px 8px #000000;
+            color: #DDD;
+            font-size: 26px;
+            text-shadow: 7px 13px 4px #0d0d02;
             border-radius: 10px;
             padding: 5px;
         }
